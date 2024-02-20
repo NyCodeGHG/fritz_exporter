@@ -2,6 +2,19 @@
 
 
 
+## [2.4.0](https://github.com/pdreker/fritz_exporter/compare/fritzexporter-v2.3.1...fritzexporter-v2.4.0) (2024-02-20)
+
+
+### Features
+
+* add Homeautomation metrics via HTTP ([#273](https://github.com/pdreker/fritz_exporter/issues/273)) ([72f1361](https://github.com/pdreker/fritz_exporter/commit/72f136160943f4e9f3a9feec7c4d156af2b5e4cd))
+
+
+### Bug Fixes
+
+* Add more flexibility to helper script. ([#280](https://github.com/pdreker/fritz_exporter/issues/280)) ([86697fa](https://github.com/pdreker/fritz_exporter/commit/86697fa075c980530c9c45c6822cab9d44579a2e))
+* small correction for AHA HTTP metrics ([6658b8a](https://github.com/pdreker/fritz_exporter/commit/6658b8ad55374e00741a6dbc15ae709d99d43c30))
+
 ## [2.3.1](https://github.com/pdreker/fritz_exporter/compare/fritzexporter-v2.3.0...fritzexporter-v2.3.1) (2023-12-16)
 
 
